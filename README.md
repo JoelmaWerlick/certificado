@@ -1,6 +1,4 @@
 # certificado
 
-certificado-8gucq42b9-joelmawerlick.vercel.app
+https://vercel.com/joelmawerlick/certificado
 
-
-certificado-two.vercel.app
